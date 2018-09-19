@@ -1,2 +1,3 @@
 # Hello-World
 My first repository
+I am just starting out on my journey into software development.  WIsh me luck...
